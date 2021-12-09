@@ -27,6 +27,8 @@
  </head>
  <body>
  <ul>
+ <li> { 
+  line-height: 35px }
 <li> <a href="https://web.archive.org/web/19961220154731/http://www.yahoo.com/Arts/">Arts and Humanities</a> -
 <a href="https://web.archive.org/web/19961220154740/http://www.yahoo.com/Arts/Architecture/">Architecture</a>, 
 <a href="https://web.archive.org/web/19961220154747/http://www.yahoo.com/Arts/Photography/">Photography</a>,  
